@@ -13,7 +13,7 @@ This project explores forecasting housing price trends using machine learning mo
 
 - `notebooks/` – Jupyter notebooks for data exploration and modeling  
 - `data/` – CSV files with raw and processed housing datasets  
-- `models/` – Saved model files (optional)  
+- `models/` – Saved model files
 - `results/` – Plots and evaluation results
 
 ## 🛠️ Tools Used
